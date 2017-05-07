@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 59847442412,
+  "duration": 6364609978,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "HomepageDef.i_access_to_the_Toolqa_Demo_Homepage()"
 });
 formatter.result({
-  "duration": 18854962409,
+  "duration": 12184493148,
   "status": "passed"
 });
 formatter.scenario({
@@ -57,22 +57,22 @@ formatter.match({
   "location": "HomepageDef.i_should_see_the_Logo_icon_and_My_account_icon()"
 });
 formatter.result({
-  "duration": 270972471,
+  "duration": 100720170,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_main_Menu()"
 });
 formatter.result({
-  "duration": 37445957,
+  "duration": 34971292,
   "status": "passed"
 });
 formatter.after({
-  "duration": 3848663105,
+  "duration": 536105585,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11249946774,
+  "duration": 4766835726,
   "status": "passed"
 });
 formatter.background({
@@ -91,7 +91,7 @@ formatter.match({
   "location": "HomepageDef.i_access_to_the_Toolqa_Demo_Homepage()"
 });
 formatter.result({
-  "duration": 5985202353,
+  "duration": 6015627513,
   "status": "passed"
 });
 formatter.scenario({
@@ -132,32 +132,32 @@ formatter.match({
   "location": "HomepageDef.i_have_already_Login()"
 });
 formatter.result({
-  "duration": 21139479407,
+  "duration": 18122375628,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_the_Logo_icon_and_My_account_icon()"
 });
 formatter.result({
-  "duration": 121790668,
+  "duration": 93774040,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_main_Menu()"
 });
 formatter.result({
-  "duration": 52939924,
+  "duration": 31676573,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_Log_out_link_and_Site_Admin_link()"
 });
 formatter.result({
-  "duration": 65520186,
+  "duration": 79793886,
   "status": "passed"
 });
 formatter.after({
-  "duration": 957101245,
+  "duration": 573455542,
   "status": "passed"
 });
 });
