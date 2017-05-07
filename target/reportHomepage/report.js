@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("cucumberID/OptionsReport/homepage.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("homepage.feature");
 formatter.feature({
   "line": 1,
   "name": "Home page",
@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6364609978,
+  "duration": 51729797235,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "HomepageDef.i_access_to_the_Toolqa_Demo_Homepage()"
 });
 formatter.result({
-  "duration": 12184493148,
+  "duration": 56445762370,
   "status": "passed"
 });
 formatter.scenario({
@@ -57,22 +57,22 @@ formatter.match({
   "location": "HomepageDef.i_should_see_the_Logo_icon_and_My_account_icon()"
 });
 formatter.result({
-  "duration": 100720170,
+  "duration": 269737272,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_main_Menu()"
 });
 formatter.result({
-  "duration": 34971292,
+  "duration": 42632089,
   "status": "passed"
 });
 formatter.after({
-  "duration": 536105585,
+  "duration": 6543290648,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4766835726,
+  "duration": 10321761996,
   "status": "passed"
 });
 formatter.background({
@@ -91,7 +91,7 @@ formatter.match({
   "location": "HomepageDef.i_access_to_the_Toolqa_Demo_Homepage()"
 });
 formatter.result({
-  "duration": 6015627513,
+  "duration": 17248243521,
   "status": "passed"
 });
 formatter.scenario({
@@ -132,32 +132,32 @@ formatter.match({
   "location": "HomepageDef.i_have_already_Login()"
 });
 formatter.result({
-  "duration": 18122375628,
+  "duration": 16095266093,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_the_Logo_icon_and_My_account_icon()"
 });
 formatter.result({
-  "duration": 93774040,
+  "duration": 87799856,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_main_Menu()"
 });
 formatter.result({
-  "duration": 31676573,
+  "duration": 27268681,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageDef.i_should_see_Log_out_link_and_Site_Admin_link()"
 });
 formatter.result({
-  "duration": 79793886,
+  "duration": 78363273,
   "status": "passed"
 });
 formatter.after({
-  "duration": 573455542,
+  "duration": 348074518,
   "status": "passed"
 });
 });
