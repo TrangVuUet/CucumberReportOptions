@@ -1,0 +1,202 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 18854962409,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I access to the Toolqa Demo Homepage",
+            "match": {
+              "location": "HomepageDef.i_access_to_the_Toolqa_Demo_Homepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 7,
+            "value": "#This screnario checks Homepage without Login"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 59847442412,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomepageDef.setUp()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Home page without Login",
+        "description": "",
+        "id": "home-page;home-page-without-login",
+        "after": [
+          {
+            "result": {
+              "duration": 3848663105,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomepageDef.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 270972471,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should see the Logo icon and My account icon",
+            "match": {
+              "location": "HomepageDef.i_should_see_the_Logo_icon_and_My_account_icon()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 37445957,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see main Menu",
+            "match": {
+              "location": "HomepageDef.i_should_see_main_Menu()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5985202353,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I access to the Toolqa Demo Homepage",
+            "match": {
+              "location": "HomepageDef.i_access_to_the_Toolqa_Demo_Homepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 12,
+            "value": "#This screnario checks Homepage when already login"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 11249946774,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomepageDef.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Home page with Login",
+        "description": "",
+        "id": "home-page;home-page-with-login",
+        "after": [
+          {
+            "result": {
+              "duration": 957101245,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomepageDef.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21139479407,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I have already Login",
+            "match": {
+              "location": "HomepageDef.i_have_already_Login()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 121790668,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should see the Logo icon and My account icon",
+            "match": {
+              "location": "HomepageDef.i_should_see_the_Logo_icon_and_My_account_icon()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 52939924,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I should see main Menu",
+            "match": {
+              "location": "HomepageDef.i_should_see_main_Menu()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 65520186,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I should see Log out link and Site Admin link",
+            "match": {
+              "location": "HomepageDef.i_should_see_Log_out_link_and_Site_Admin_link()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Home page",
+    "description": "",
+    "id": "home-page",
+    "keyword": "Feature",
+    "uri": "cucumberID/OptionsReport/homepage.feature"
+  }
+]
